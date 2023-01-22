@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import Result from "../components/Result.vue";
+import Result from "../components/ResultPage.vue";
 </script>
 
 <template>

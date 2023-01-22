@@ -8,9 +8,8 @@ defineProps<{
   <div class="greetings">
     <h1 class="green">{{ msg }}</h1>
     <h3>
-      This is a Checkout Engine for the wambo supermarket,
-      for applicant Wossen Hailemariam.
-
+      This is a Checkout Engine for the wambo supermarket, for applicant Wossen
+      Hailemariam.
     </h3>
   </div>
 </template>
