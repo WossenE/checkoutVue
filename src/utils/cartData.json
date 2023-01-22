@@ -1,0 +1,27 @@
+[
+  {
+    "productCode": "FR1",
+    "productName": "Fruit tea",
+    "buyOneGetOneFree": true,
+    "pricing": { "1": 3.11 },
+    "quantity": 0,
+    "productImageSrc": "fruitTea.png"
+  },
+
+  {
+    "productCode": "SR1",
+    "productName": "Strawberry",
+    "buyOneGetOneFree": false,
+    "pricing": { "1": 5, "3": 4.5 },
+    "quantity": 0,
+    "productImageSrc": "strawberry.svg"
+  },
+  {
+    "productCode": "CF1",
+    "productName": "Coffee",
+    "buyOneGetOneFree": false,
+    "pricing": { "1": 11.23 },
+    "quantity": 0,
+    "productImageSrc": "coffee.svg"
+  }
+]
