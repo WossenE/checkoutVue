@@ -31,10 +31,11 @@ i {
 }
 
 h3 {
-  font-size: 2.5rem;
+  font-size: 3.2rem;
   font-weight: 500;
   margin-bottom: 0.4rem;
   color: green;
+  text-align: right;
 }
 
 @media (min-width: 1024px) {
