@@ -36,7 +36,7 @@ export default {
           <img
             :alt="`${item.productName}`"
             class="logo"
-            :src="`/src/assets/${item.productImageSrc}`"
+            :src="`/images/${item.productImageSrc}`"
             width="100"
             height="100"
           />
